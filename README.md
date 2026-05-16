@@ -1,5 +1,6 @@
 # NL2SQL Agent
 
+(My learnings)
 > 🎯 **Featured at SciPy Conference 2025:**  
 > [Building an AI Agent for Natural Language to SQL Query Execution on Live Databases](https://cfp.scipy.org/scipy2025/talk/XUYKZZ/)  
 > 📅 **July 8, 2025** | 📍 **Tacoma, WA** | ⏱️ **4-hour hands-on tutorial**
